@@ -5,19 +5,23 @@ repo: medusa_monitoring # The name of this repository
 sites:
   - name: Medusadistribution
     url: https://medusadistribution.com/
+    baseUrl: /medusa_monitoring
   - name: Frontend
     url: https://beta.medusadistribution.com/
+    baseUrl: /medusa_monitoring
   - name: Admin
     url: https://admin.medusadistribution.com/
+    baseUrl: /medusa_monitoring
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  theme: dark
-  #cname: himalayadevo.github.io
+ 
+  cname: demo.upptime.js.org
   baseUrl: /medusa_monitoring
   logoUrl: https://cdn.shopify.com/s/files/1/2221/1809/files/Medusa_Head_32x32.png?v=1510246075
   name: Medusa Monitoring
+  theme: dark
   introTitle: ""
   introMessage: Realtime Medusa API Monitoring
   navbar:
