@@ -14,7 +14,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: dark
-  cname: https://himalayadevo.github.io/medusa_monitoring
+  cname: himalayadevo.github.io
   baseUrl: /medusa_monitoring
   logoUrl: https://cdn.shopify.com/s/files/1/2221/1809/files/Medusa_Head_32x32.png?v=1510246075
   name: Medusa Monitoring
