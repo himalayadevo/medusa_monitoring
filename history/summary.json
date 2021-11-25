@@ -40,9 +40,9 @@
     "url": "https://admin.medusadistribution.com/",
     "icon": "https://favicons.githubusercontent.com/admin.medusadistribution.com",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.65%",
@@ -52,6 +52,7 @@
     "timeMonth": 659,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2021-11-25": 0,
       "2021-11-23": 18
     }
   }
