@@ -41,18 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/admin.medusadistribution.com",
     "slug": "admin",
     "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 641,
     "timeDay": 537,
     "timeWeek": 623,
     "timeMonth": 641,
     "timeYear": 641,
     "dailyMinutesDown": {
-      "2021-12-01": 2,
       "2021-11-23": 18
     }
   },
