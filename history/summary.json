@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 399,
-    "timeDay": 420,
+    "timeDay": 422,
     "timeWeek": 385,
     "timeMonth": 399,
     "timeYear": 399,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 265,
+    "timeDay": 266,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
@@ -41,14 +41,14 @@
     "icon": "https://favicons.githubusercontent.com/admin.medusadistribution.com",
     "slug": "admin",
     "status": "up",
-    "uptime": "96.81%",
+    "uptime": "96.82%",
     "uptimeDay": "92.48%",
     "uptimeWeek": "96.75%",
-    "uptimeMonth": "96.81%",
-    "uptimeYear": "96.81%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "96.82%",
     "time": 593,
-    "timeDay": 484,
-    "timeWeek": 533,
+    "timeDay": 483,
+    "timeWeek": 534,
     "timeMonth": 593,
     "timeYear": 593,
     "dailyMinutesDown": {
@@ -65,17 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "purchase-order-lines",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 990,
-    "timeDay": 973,
-    "timeWeek": 970,
+    "timeDay": 974,
+    "timeWeek": 969,
     "timeMonth": 990,
     "timeYear": 990,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 3
+    }
   },
   {
     "name": "Stock adjustments API",
@@ -83,17 +85,19 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "stock-adjustments-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 105,
     "timeDay": 107,
     "timeWeek": 108,
     "timeMonth": 105,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 3
+    }
   },
   {
     "name": "Purchase Orders API",
@@ -101,17 +105,19 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "purchase-orders-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 119,
+    "timeDay": 118,
     "timeWeek": 117,
     "timeMonth": 113,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 2
+    }
   },
   {
     "name": "Variants API",
@@ -119,17 +125,19 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "variants-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 118,
+    "timeDay": 119,
     "timeWeek": 111,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 2
+    }
   },
   {
     "name": "TG orders API",
@@ -137,17 +145,19 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "tg-orders-api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 115,
     "timeDay": 119,
     "timeWeek": 118,
     "timeMonth": 115,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 1
+    }
   },
   {
     "name": "Products API",
@@ -156,8 +166,8 @@
     "slug": "products-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 102,
@@ -165,7 +175,9 @@
     "timeWeek": 104,
     "timeMonth": 102,
     "timeYear": 102,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 1
+    }
   },
   {
     "name": "Purchase Orders (All Statuses) API",
@@ -174,16 +186,18 @@
     "slug": "purchase-orders-all-statuses-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 896,
-    "timeDay": 903,
+    "timeDay": 898,
     "timeWeek": 876,
     "timeMonth": 896,
     "timeYear": 896,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 1
+    }
   },
   {
     "name": "All Variants (archived & active) API",
@@ -192,16 +206,18 @@
     "slug": "all-variants-archived-and-active-api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1235,
-    "timeDay": 1210,
+    "timeDay": 1211,
     "timeWeek": 1237,
     "timeMonth": 1235,
     "timeYear": 1235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "All Products (archived & active) API",
@@ -251,7 +267,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 136,
+    "timeDay": 137,
     "timeWeek": 113,
     "timeMonth": 111,
     "timeYear": 111,
@@ -269,7 +285,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
-    "timeDay": 461,
+    "timeDay": 460,
     "timeWeek": 466,
     "timeMonth": 469,
     "timeYear": 469,
