@@ -165,18 +165,18 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "products-api",
     "status": "up",
-    "uptime": "96.35%",
-    "uptimeDay": "24.46%",
-    "uptimeWeek": "89.21%",
-    "uptimeMonth": "96.35%",
-    "uptimeYear": "96.35%",
+    "uptime": "96.33%",
+    "uptimeDay": "23.98%",
+    "uptimeWeek": "89.14%",
+    "uptimeMonth": "96.33%",
+    "uptimeYear": "96.33%",
     "time": 110,
     "timeDay": 288,
     "timeWeek": 129,
     "timeMonth": 110,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2021-12-16": 592,
+      "2021-12-16": 599,
       "2021-12-15": 496
     }
   },
@@ -213,7 +213,7 @@
     "uptimeYear": "99.86%",
     "time": 1232,
     "timeDay": 1159,
-    "timeWeek": 1227,
+    "timeWeek": 1228,
     "timeMonth": 1232,
     "timeYear": 1232,
     "dailyMinutesDown": {
@@ -326,18 +326,18 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "tax-api",
     "status": "up",
-    "uptime": "96.37%",
-    "uptimeDay": "24.84%",
-    "uptimeWeek": "89.26%",
-    "uptimeMonth": "96.37%",
-    "uptimeYear": "96.37%",
+    "uptime": "96.34%",
+    "uptimeDay": "24.36%",
+    "uptimeWeek": "89.19%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "96.34%",
     "time": 118,
     "timeDay": 325,
     "timeWeek": 139,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2021-12-16": 593,
+      "2021-12-16": 600,
       "2021-12-15": 490
     }
   }
