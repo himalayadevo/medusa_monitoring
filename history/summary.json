@@ -41,11 +41,11 @@
     "icon": "https://favicons.githubusercontent.com/admin.medusadistribution.com",
     "slug": "admin",
     "status": "up",
-    "uptime": "96.86%",
+    "uptime": "96.87%",
     "uptimeDay": "92.48%",
     "uptimeWeek": "96.75%",
-    "uptimeMonth": "96.86%",
-    "uptimeYear": "96.86%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "96.87%",
     "time": 591,
     "timeDay": 489,
     "timeWeek": 533,
@@ -165,18 +165,19 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "products-api",
     "status": "up",
-    "uptime": "98.31%",
-    "uptimeDay": "65.71%",
-    "uptimeWeek": "95.10%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "98.31%",
+    "uptime": "98.15%",
+    "uptimeDay": "62.53%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "98.15%",
+    "uptimeYear": "98.15%",
     "time": 111,
     "timeDay": 295,
     "timeWeek": 129,
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2021-12-15": 494
+      "2021-12-16": 44,
+      "2021-12-15": 496
     }
   },
   {
@@ -325,18 +326,19 @@
     "icon": "https://favicons.githubusercontent.com/api.tradegecko.com",
     "slug": "tax-api",
     "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "66.09%",
-    "uptimeWeek": "95.16%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "98.33%",
+    "uptime": "98.17%",
+    "uptimeDay": "62.91%",
+    "uptimeWeek": "94.70%",
+    "uptimeMonth": "98.17%",
+    "uptimeYear": "98.17%",
     "time": 118,
     "timeDay": 331,
     "timeWeek": 139,
     "timeMonth": 118,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2021-12-15": 489
+      "2021-12-16": 45,
+      "2021-12-15": 490
     }
   }
 ]
