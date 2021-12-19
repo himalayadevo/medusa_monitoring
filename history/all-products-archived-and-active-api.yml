@@ -1,7 +1,7 @@
 url: https://api.tradegecko.com/products?limit=250&status=archived,active
 status: up
 code: 200
-responseTime: 840
-lastUpdated: 2021-12-19T11:38:20.959Z
+responseTime: 628
+lastUpdated: 2021-12-19T11:50:48.144Z
 startTime: Thu Nov 25 2021 17:28:00 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
