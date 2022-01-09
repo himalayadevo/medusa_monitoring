@@ -1,7 +1,7 @@
 url: https://api.tradegecko.com/companies?company_type=supplier
 status: up
 code: 200
-responseTime: 153
-lastUpdated: 2022-01-09T17:41:18.437Z
+responseTime: 136
+lastUpdated: 2022-01-09T17:53:51.553Z
 startTime: Thu Nov 25 2021 17:28:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
