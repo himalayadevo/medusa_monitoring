@@ -4,10 +4,10 @@
     "url": "https://medusadistribution.com/",
     "icon": "https://favicons.githubusercontent.com/medusadistribution.com",
     "slug": "medusadistribution",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
+    "uptimeDay": "97.93%",
+    "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 381,
@@ -16,7 +16,7 @@
     "timeMonth": 490,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2022-04-01": 29
+      "2022-04-01": 30
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "frontend",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "93.69%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "93.09%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "99.73%",
     "uptimeYear": "99.93%",
     "time": 267,
     "timeDay": 245,
@@ -36,7 +36,7 @@
     "timeMonth": 266,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2022-04-01": 91,
+      "2022-04-01": 100,
       "2022-03-18": 18,
       "2022-01-25": 17
     }
@@ -46,11 +46,11 @@
     "url": "https://admin.medusadistribution.com/",
     "icon": "https://favicons.githubusercontent.com/admin.medusadistribution.com",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.16%",
-    "uptimeDay": "93.80%",
+    "uptimeDay": "93.74%",
     "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.16%",
     "time": 525,
     "timeDay": 1092,
@@ -58,7 +58,7 @@
     "timeMonth": 532,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-04-01": 89,
+      "2022-04-01": 90,
       "2022-01-25": 25,
       "2021-12-24": 250,
       "2021-12-22": 113,
