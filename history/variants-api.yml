@@ -1,7 +1,7 @@
 url: https://api.tradegecko.com/variants/70061913
-status: down
-code: 502
-responseTime: 64
-lastUpdated: 2022-04-10T05:48:08.314Z
+status: up
+code: 200
+responseTime: 229
+lastUpdated: 2022-04-10T05:54:25.492Z
 startTime: Thu Nov 25 2021 17:27:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
