@@ -1,7 +1,7 @@
 url: https://api.tradegecko.com/companies?company_type=supplier
 status: down
 code: 401
-responseTime: 84
-lastUpdated: 2022-07-20T03:01:06.029Z
+responseTime: 116
+lastUpdated: 2022-07-20T23:09:29.422Z
 startTime: Thu Nov 25 2021 17:28:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
