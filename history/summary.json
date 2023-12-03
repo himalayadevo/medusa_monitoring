@@ -43,11 +43,11 @@
     "url": "https://admin.medusadistribution.com/",
     "icon": "https://icons.duckduckgo.com/ip3/admin.medusadistribution.com.ico",
     "slug": "admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 423,
     "timeDay": 176,
@@ -55,7 +55,7 @@
     "timeMonth": 310,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2023-12-03": 5,
+      "2023-12-03": 0,
       "2023-03-27": 43,
       "2023-01-30": 16
     }
