@@ -4,18 +4,20 @@
     "url": "https://medusadistribution.com/",
     "icon": "https://icons.duckduckgo.com/ip3/medusadistribution.com.ico",
     "slug": "medusadistribution",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.37%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 114,
-    "timeWeek": 183,
-    "timeMonth": 189,
+    "timeDay": 230,
+    "timeWeek": 203,
+    "timeMonth": 193,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-27": 24
+    }
   },
   {
     "name": "Frontend",
