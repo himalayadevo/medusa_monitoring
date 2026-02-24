@@ -24,9 +24,9 @@
     "url": "https://beta.medusadistribution.com/",
     "icon": "https://icons.duckduckgo.com/ip3/beta.medusadistribution.com.ico",
     "slug": "frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 222,
     "timeMonth": 208,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-24": 0
+    }
   },
   {
     "name": "Admin",
