@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 247,
-    "timeWeek": 220,
-    "timeMonth": 224,
-    "timeYear": 197,
+    "timeDay": 141,
+    "timeWeek": 200,
+    "timeMonth": 221,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2025-11-27": 24
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.medusadistribution.com.ico",
     "slug": "frontend",
     "status": "down",
-    "uptime": "98.12%",
+    "uptime": "98.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.30%",
-    "uptimeMonth": "94.55%",
-    "uptimeYear": "99.55%",
+    "uptimeWeek": "62.04%",
+    "uptimeMonth": "91.26%",
+    "uptimeYear": "99.27%",
     "time": 179,
     "timeDay": 0,
-    "timeWeek": 235,
-    "timeMonth": 210,
+    "timeWeek": 222,
+    "timeMonth": 209,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2026-02-26": 83,
+      "2026-02-27": 81,
+      "2026-02-26": 1440,
       "2026-02-25": 1440,
       "2026-02-24": 866
     }
@@ -52,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 361,
-    "timeDay": 366,
-    "timeWeek": 456,
-    "timeMonth": 442,
-    "timeYear": 371,
+    "time": 362,
+    "timeDay": 300,
+    "timeWeek": 402,
+    "timeMonth": 436,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2025-08-13": 37
     }
